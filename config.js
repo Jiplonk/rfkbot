@@ -47,8 +47,8 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'Andrii Street Moonshine'
-namakontak2 = 'Andrii Street Moonshine'
+namakontak1 = 'KazuKi'
+namakontak2 = 'KazuKi'
 
 //kasihcaption = `Nih Kak`
 
@@ -57,10 +57,10 @@ global.packname = 'By KazuKi' // ganti aja
 global.author = 'KazuKi' // ganti aja
 
 //yyy
-bc = 'RFK' //ANDRIIxBOTZ Broadcast
-footer = '\n©ANDRIIxBOTZ'
-namabot = 'ANDRIIxBOTZ'
-namalu = 'Andrii Street Moonshine'
+bc = 'RFK' //KAZUKIxBOTZ Broadcast
+footer = '\n©KazuKixBOTZ'
+namabot = 'KazuKixBOTZ'
+namalu = 'KazuKi'
 
 
 // 
